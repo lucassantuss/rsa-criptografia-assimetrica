@@ -10,6 +10,15 @@ A troca de mensagens é feita de forma segura:
 
 ---
 
+## 👥 Integrantes do Grupo
+
+- **João Antônio de Brito Moraes** – RA: 081210028
+- **Lucas Araujo dos Santos** – RA: 081210009  
+- **Natthalie Bohm** – RA: 081210001  
+- **Renan Cesar de Araujo** – RA: 081210033
+
+---
+
 ## 📂 Estrutura dos Arquivos
 
 - `Simple_tcpServer.py` → Código do servidor TCP com RSA.  
